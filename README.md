@@ -9,8 +9,9 @@ The dashboard helps identify sales trends, product performance, discount impact,
 ---
 
 ## Dashboard Preview
+<img width="1600" height="908" alt="image" src="https://github.com/user-attachments/assets/d4fc6ffb-6115-45ea-9c7e-f3136e136253" />
 
-![Coffee Sales Dashboard](dashboard.png)
+
 
 ---
 
@@ -60,16 +61,11 @@ The dashboard helps identify sales trends, product performance, discount impact,
 ## Tools Used
 
 * Power BI
-* Data Modeling
-* DAX Measures
-* Data Visualization
-
 ---
 
 ## Files
 
 * `Coffee_Sales_Dashboard.pbix` — Power BI dashboard file
-* `dashboard.png` — Dashboard preview image
 * `README.md` — Project documentation
 
 ---
